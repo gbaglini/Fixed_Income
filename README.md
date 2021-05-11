@@ -1,1 +1,1 @@
-# Repository of Projects
+# Repository of projects
